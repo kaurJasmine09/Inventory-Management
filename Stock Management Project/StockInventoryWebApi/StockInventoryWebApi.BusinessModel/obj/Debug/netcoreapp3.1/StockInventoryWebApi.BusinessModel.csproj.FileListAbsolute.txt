@@ -1,0 +1,30 @@
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.deps.json
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.dll
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.pdb
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.AssemblyInfoInputs.cache
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.AssemblyInfo.cs
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.csproj.CoreCompileInputs.cache
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.dll
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.pdb
+C:/Users/jaspa/source/repos/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.csproj.AssemblyReference.cache
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.deps.json
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.dll
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.pdb
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.csproj.AssemblyReference.cache
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.AssemblyInfoInputs.cache
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.AssemblyInfo.cs
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.csproj.CoreCompileInputs.cache
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.dll
+D:/Projects/Projects/.NET/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.pdb
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.deps.json
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.dll
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/bin/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.pdb
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.csproj.AssemblyReference.cache
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.AssemblyInfoInputs.cache
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.AssemblyInfo.cs
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.csproj.CoreCompileInputs.cache
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.dll
+/Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.BusinessModel/obj/Debug/netcoreapp3.1/StockInventoryWebApi.BusinessModel.pdb

@@ -1,0 +1,279 @@
+{
+  "stock-records": [
+    {
+      "transactionId": "5bdbdjbhjb",
+      "productId": "P123",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdjahjb",
+      "productId": "P133",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdcbhjb",
+      "productId": "P143",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdjvhjb",
+      "productId": "P153",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbqjbhjb",
+      "productId": "P163",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    }
+  ],
+  "suppliers": [
+    {
+      "transactionId": "5bdbdjbhjb",
+      "productId": "P133",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdjahjb",
+      "productId": "P143",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdcbhjb",
+      "productId": "P163",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdjvhjb",
+      "productId": "P173",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbqjbhjb",
+      "productId": "P183",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    }
+  ],
+  "customers": [
+    {
+      "transactionId": "5bdbdjbhjb",
+      "productId": "P193",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdjahjb",
+      "productId": "P223",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdcbhjb",
+      "productId": "P323",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbdjvhjb",
+      "productId": "P523",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    },
+    {
+      "transactionId": "5bdbqjbhjb",
+      "productId": "P623",
+      "employee": "Jack",
+      "type": "Stock out",
+      "entity": "Cus - Customer name",
+      "time": "13:07",
+      "date": "Feb 08, 2022",
+      "quantity": "05"
+    }
+  ],
+  "stocks": [
+    {
+      "id": 1,
+      "productName": "5bdbdjbhjb",
+      "productId": "P123",
+      "category": "Shirt",
+      "supplier": "Zara",
+      "customer": "Welcome",
+      "quantity": 15,
+      "description": "Zara zara paa ke aai kale rang da"
+    },
+    {
+      "id": 2,
+      "productName": "5bdbdjbhjb",
+      "productId": "P223",
+      "category": "Troy",
+      "supplier": "Stock out",
+      "quantity": 26,
+      "customer": "World",
+      "description": "lorem epsium is a fun text"
+    },
+    {
+      "id": 3,
+      "productName": "5bdbdjbhjb",
+      "productId": "P323",
+      "category": "Sam",
+      "supplier": "Stock out",
+      "quantity": 78,
+      "customer": "Hello",
+      "description": "lorem epsium is a fun text"
+    },
+    {
+      "id": 4,
+      "productName": "5bdbdjbhjb",
+      "productId": "P423",
+      "category": "Mark",
+      "supplier": "Stock out",
+      "quantity": 89,
+      "customer": "Client",
+      "description": "lorem epsium is a fun text"
+    },
+    {
+      "id": 5,
+      "productName": "5bdbdjbhjb",
+      "productId": "P523",
+      "category": "Smith",
+      "supplier": "Stock out",
+      "quantity": 11,
+      "customer": "Client",
+      "description": "lorem epsium is a fun text"
+    },
+    {
+      "productName": "5bdbdjbhjA",
+      "productId": "P123",
+      "category": "Jogn",
+      "supplier": "Stock out",
+      "quantity": "77",
+      "customer": "Sucker",
+      "description": "lorem epsium is a fun text",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "productName": "5bdbdjbhaz",
+      "productId": "P123",
+      "category": "Jeans",
+      "supplier": "Jack and Johns",
+      "quantity": 15,
+      "customer": "Testifier",
+      "description": "lorem epsium is a fun text"
+    },
+    {
+      "productName": "5bdbdjbhjb",
+      "productId": "P123",
+      "category": "Shirt",
+      "supplier": "Zara",
+      "quantity": "25",
+      "customer": "Roby",
+      "description": "Zara zara paa ke aai kale rang da",
+      "id": 8
+    },
+    {
+      "productName": "5bdbdjbhjb",
+      "productId": "P123",
+      "category": "Shirt",
+      "supplier": "Zara",
+      "quantity": "27",
+      "customer": "Sam",
+      "description": "Test Description Also",
+      "id": 9
+    },
+    {
+      "productName": "5bdbdjbhjb",
+      "productId": "P123",
+      "category": "Shirt",
+      "supplier": "Jack and Johns",
+      "quantity": "7",
+      "customer": "Moody",
+      "description": "Thug Life",
+      "id": 10
+    },
+    {
+      "productName": "5bdbdjbhjb",
+      "productId": "P123",
+      "category": "Shirt",
+      "supplier": "Jack and Johns",
+      "quantity": "89",
+      "customer": "Johny",
+      "description": "Goat ",
+      "id": 11
+    },
+    {
+      "productName": "5bdbdjbhjb",
+      "productId": "P123",
+      "category": "Shirt",
+      "supplier": "Zara",
+      "quantity": "25",
+      "description": "Zara zara paa ke aai kale rang da",
+      "id": 12
+    }
+  ]
+}

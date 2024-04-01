@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = StockInventoryWebApi.Entities
+build_property.ProjectDir = /Users/jaspalsingh/Repository/Inventory Management/Stock Management Project/StockInventoryWebApi/StockInventoryWebApi.Entities/

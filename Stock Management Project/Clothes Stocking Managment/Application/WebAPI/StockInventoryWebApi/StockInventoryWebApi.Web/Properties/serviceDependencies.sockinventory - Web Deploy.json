@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/stockinventorydbserver/databases/StockInventoryDB",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:StockInv_DB",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

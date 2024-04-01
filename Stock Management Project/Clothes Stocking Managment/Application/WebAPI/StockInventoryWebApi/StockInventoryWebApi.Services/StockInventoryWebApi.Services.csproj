@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockInventoryWebApi.BusinessModel\StockInventoryWebApi.BusinessModel.csproj" />
+    <ProjectReference Include="..\StockInventoryWebApi.Entities\StockInventoryWebApi.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
